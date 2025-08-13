@@ -1,7 +1,0 @@
-Hii.. everyone, I have used SAR time series data to detect deforestation.
-1. Preprocess SAR data according to best interpretation.
-2. create a stack of SAR data based on the time scale.
-3. create polygons to mask where is the deforestation.
-4. Labele those polygon
-5. Train the model those labeled data.
-6. run the model on entire image
